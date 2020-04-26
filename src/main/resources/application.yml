@@ -1,0 +1,12 @@
+db:
+    driver: com.mysql.cj.jdbc.Driver
+    password: LetMeIn
+    url: jdbc:mysql://localhost:3306/red?serverTimezone=UTC
+    username: root
+entitymanager:
+    packagesToScan: uk.co._4loop.model
+hibernate:
+    dialect: org.hibernate.dialect.MySQL5Dialect
+    hbm2ddl:
+        auto: update
+    show_sql: true

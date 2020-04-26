@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="216.5" y="-14.5">uk.co._4loop.dao.EmployeeDAO</node>
+    <node x="2.5" y="-14.5">uk.co._4loop.service.EmployeeService</node>
+    <node x="202.5" y="105.5">uk.co._4loop.dao.EmployeeDAOImpl</node>
+    <node x="-12.0" y="105.5">uk.co._4loop.service.EmployeeServiceImpl</node>
+    <node x="-8.5" y="185.5">uk.co._4loop.controller.EmployeeController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="uk.co._4loop.dao.EmployeeDAOImpl" target="uk.co._4loop.dao.EmployeeDAO">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="uk.co._4loop.service.EmployeeServiceImpl" target="uk.co._4loop.service.EmployeeService">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal" zoom="1.0" x="504.5" y="185.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
