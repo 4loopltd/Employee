@@ -1,4 +1,4 @@
-# ![CRUD Example App using Java and Spring](icon.png) CRUD Example
+# ![CRUD Example App using Java and Spring](icon.png) CRUD Example.
 This codebase was created to demonstrate CRUD operations using a simple application built with Spring boot, Hibernate & MySQL.
 
 The code is organised as follows:
